@@ -1,4 +1,5 @@
 # Анализ первого графика (Sleep_Hours vs Attendance)
+## Ссылка на датасет: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 ![cluster_sleep_hours_vs_attendance](/images/cluster-sleep_hours-attendance.png)
 ### На этом графике мы видим распределение студентов по двум признакам:
 * X-axis: Sleep_Hours (часы сна) — от 4 до 11 часов
@@ -15,6 +16,7 @@
 * Кластер C3 (Зеленый) — "Трудоголики": Средняя посещаемость, но мало спят. Возможно, перегружены учебой или работой.
 
 # Анализ второго графика (Hours_Studied vs Attendance)
+## Ссылка на датасет: https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 ![cluster_hours_studied_vs_attendance](/images/cluster-hours-attendance.png)
 ### На этом графике:
 * X-axis: Hours_Studied (часы учебы в неделю) — от ~0 до 45 часов
